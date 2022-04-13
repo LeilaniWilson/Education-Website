@@ -1,0 +1,37 @@
+body {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 35px;
+	font-style: italic;
+	color: #63C;
+	background-color: #9FF;
+	text-align: center;
+}
+#nav {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 18px;
+	color: #F0C;
+	text-align: center;
+}
+#footer {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12px;
+	color: #06F;
+	text-decoration: underline;
+	text-align: center;
+}
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	font-style: normal;
+	color: #000;
+	text-align: center;
+}
+.form {
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 20px;
+	color: #90C;
+}
+.copywright {
+	font-size: 12px;
+	color: #000;
+}
